@@ -49,5 +49,3 @@ Lorsque l'on switche d'un utilisateur à l'autre toutes les informations sont mi
 
 Lorsque l'utilisateur clique sur le bouton "C'est super !", il vient augmenter le nombre de "C'est super!" qu'on affichera à coté du bouton.
 Ce nombre sera stocké dans le profil de l'utilisateur ce qui permettra de la conserver lorsqu'on switchera d'utilisateur.
-
-Essai Git
